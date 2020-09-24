@@ -29,12 +29,17 @@ button{
 }
 
 #numSort{
-    font-size: 1.5em;
-    float: left;
+  list-style: none;
+  font-size: 3em;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
 }
 
-#numSorte li{
-    display: inline;
+.result{
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 p{
