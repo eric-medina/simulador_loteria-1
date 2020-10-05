@@ -48,7 +48,7 @@ function addToList(num, pos){
 ```
 
 ## Como rodar o código
-> Simplesmente baixe e o codigo abra o arquivo index.html
+> Simplesmente baixe e o codigo abra o arquivo
 **_index.html_** no seu navegador
 
 ## exemplo de tabela
